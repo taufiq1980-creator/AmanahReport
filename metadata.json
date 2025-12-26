@@ -1,0 +1,9 @@
+{
+  "name": "Charity Fund Distribution Report",
+  "description": "An AI-powered application for NGOs to generate transparent, verifiable distribution reports using receipt scanning and impact storytelling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
